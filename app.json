@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "PuiChuen_Videos",
-    "slug": "PuiChuen_Videos",
+    "name": "Wired Magazine",
+    "slug": "wired-magazine",
+    "description": "This application will fetch data from daily motion and present some trending video.",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
