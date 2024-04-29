@@ -16,7 +16,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "buildIdentifier": "lpc22.expo"
     },
     "android": {
       "adaptiveIcon": {
